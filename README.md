@@ -1,0 +1,1 @@
+This Python script automates the process of maintaining an IP allow list in a company's security system. It reads the current list of allowed IP addresses from a file, removes any IPs that are specified in a separate remove list, and then updates the file with the revised list. 
